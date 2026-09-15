@@ -39,6 +39,36 @@ Currently working on BluHawk, contributing to backend and platform infrastructur
 
 I don't just ask whether a system works — I care about how it behaves under scale, concurrency, failure and change.
 
+## 🧠 Engineering Focus
+
+```text
+                         SYSTEMS ENGINEERING
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+              ▼                   ▼                   ▼
+       ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+       │   BACKEND    │    │ DISTRIBUTED  │    │  SECURITY &  │
+       │  ENGINEERING │    │   SYSTEMS    │    │     IAM      │
+       ├──────────────┤    ├──────────────┤    ├──────────────┤
+       │ Python       │    │ Event-Driven │    │ IAM / AuthN  │
+       │ Django / DRF │    │ Orchestration│    │ RBAC / ABAC  │
+       │ REST / Ninja │    │ Load Balance │    │ Tenant Guard │
+       │ PostgreSQL   │    │ Event Stream │    │ Secure APIs  │
+       │ Redis        │    │ Dist. Caching│    │ Attack-Surf. │
+       │ Async / ASGI │    │ Fault Toler. │    │ Token Auth   │
+       │ WebSockets   │    │ Observability│    │ Isolation    │
+       └──────────────┘    └──────────────┘    └──────────────┘
+              │                   │                   │
+              └───────────────────┼───────────────────┘
+                                  │
+                                  ▼
+                     ┌─────────────────────────┐
+                     │   RELIABLE & SCALABLE   │
+                     │        PLATFORMS        │
+                     └─────────────────────────┘
+```
+
 ## ⚡ What I Build
 
 <table width="100%">
@@ -93,8 +123,10 @@ I don't just ask whether a system works — I care about how it behaves under sc
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
 ### ⚙️ Backend & APIs
@@ -273,18 +305,6 @@ Completed a 240-hour long-term internship focused on Full Stack Development.
 ### Why only the streak card here?
 
 The profile intentionally avoids third-party dynamic statistics/trophy/activity-graph services that can fail to render on GitHub. The result is a cleaner profile with fewer broken-image risks.
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/POORNA-12/POORNA-12/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/POORNA-12/POORNA-12/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/POORNA-12/POORNA-12/output/github-snake.svg" width="95%" alt="GitHub Contribution Snake">
-</picture>
-
-</div>
 
 ## 🌱 Engineering Philosophy
 

@@ -9,16 +9,16 @@
 <br><br>
 
 <a href="https://github.com/POORNA-12">
-<img src="https://img.shields.io/badge/GitHub-POORNA--12-34191D?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0E11" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-POORNA--12-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=34191D" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/purna-ajay-0a351428b/">
-<img src="https://img.shields.io/badge/LinkedIn-Purna%20Ajay-1A0E11?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=34191D" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Purna%20Ajay-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=34191D" alt="LinkedIn"/>
 </a>
 <a href="https://purna-ajay.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-34191D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A0E11" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=34191D" alt="Portfolio"/>
 </a>
 <a href="mailto:poornapoorna39@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-1A0E11?style=for-the-badge&logo=gmail&logoColor=white&labelColor=34191D" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=34191D" alt="Email"/>
 </a>
 
 <br><br>
@@ -297,16 +297,16 @@ I'm interested in connecting with engineers, builders, researchers and teams wor
 <div align="center">
 
 <a href="https://github.com/POORNA-12">
-<img src="https://img.shields.io/badge/GitHub-POORNA--12-34191D?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0E11" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-POORNA--12-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=34191D" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/purna-ajay-0a351428b/">
-<img src="https://img.shields.io/badge/LinkedIn-Purna%20Ajay-1A0E11?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=34191D" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Purna%20Ajay-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=34191D" alt="LinkedIn"/>
 </a>
 <a href="https://purna-ajay.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-34191D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A0E11" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=34191D" alt="Portfolio"/>
 </a>
 <a href="mailto:poornapoorna39@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-1A0E11?style=for-the-badge&logo=gmail&logoColor=white&labelColor=34191D" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=34191D" alt="Email"/>
 </a>
 
 <br><br>

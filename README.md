@@ -41,33 +41,9 @@ I don't just ask whether a system works — I care about how it behaves under sc
 
 ## 🧠 Engineering Focus
 
-```text
-                         SYSTEMS ENGINEERING
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-              ▼                   ▼                   ▼
-       ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-       │   BACKEND    │    │ DISTRIBUTED  │    │  SECURITY &  │
-       │  ENGINEERING │    │   SYSTEMS    │    │     IAM      │
-       ├──────────────┤    ├──────────────┤    ├──────────────┤
-       │ Python       │    │ Event-Driven │    │ IAM / AuthN  │
-       │ Django / DRF │    │ Orchestration│    │ RBAC / ABAC  │
-       │ REST / Ninja │    │ Load Balance │    │ Tenant Guard │
-       │ PostgreSQL   │    │ Event Stream │    │ Secure APIs  │
-       │ Redis        │    │ Dist. Caching│    │ Attack-Surf. │
-       │ Async / ASGI │    │ Fault Toler. │    │ Token Auth   │
-       │ WebSockets   │    │ Observability│    │ Isolation    │
-       └──────────────┘    └──────────────┘    └──────────────┘
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  │
-                                  ▼
-                     ┌─────────────────────────┐
-                     │   RELIABLE & SCALABLE   │
-                     │        PLATFORMS        │
-                     └─────────────────────────┘
-```
+<div align="center">
+  <img src="./assets/engineering-focus.svg" alt="Platform Engineering Architecture" width="100%"/>
+</div>
 
 ## ⚡ What I Build
 

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=180&section=header&text=Purna%20Ajay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Platform%20Engineer%20%7C%20Backend%20Engineer%20%7C%20Distributed%20Systems&descAlignY=62&descSize=18" width="100%" alt="Purna Ajay Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:190e11,40:34191d,75:4a252a,100:693339&height=180&section=header&text=Purna%20Ajay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Platform%20Engineer%20%7C%20Backend%20Engineer%20%7C%20Distributed%20Systems&descAlignY=62&descSize=18" width="100%" alt="Purna Ajay Header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=800&lines=Building+reliable+backend+platforms;Designing+distributed+systems;Engineering+security-focused+infrastructure;Building+developer+tools+in+public" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FB7185&center=true&vCenter=true&width=800&lines=Building+reliable+backend+platforms;Designing+distributed+systems;Engineering+security-focused+infrastructure;Building+developer+tools+in+public" alt="Typing SVG"/>
 
 <br><br>
 
@@ -23,7 +23,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=POORNA-12&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=POORNA-12&label=PROFILE%20VIEWS&color=e11d48&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -317,4 +317,4 @@ I'm interested in connecting with engineers, builders, researchers and teams wor
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:190e11,40:34191d,75:4a252a,100:693339&height=110&section=footer" width="100%" alt="Footer"/>

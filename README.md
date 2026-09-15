@@ -165,10 +165,10 @@ ScopeMap is my first open-source project, built around deterministic dependency 
 
 <p>
 <a href="https://github.com/POORNA-12/ScopeMap">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ScopeMap Repository"/>
+<img src="https://img.shields.io/badge/Repository-GitHub-4A252A?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0E11" alt="ScopeMap Repository"/>
 </a>
 <a href="https://github.com/POORNA-12/ScopeMap/releases/tag/v0.10.0">
-<img src="https://img.shields.io/badge/Release-v0.10.0-2563EB?style=for-the-badge" alt="ScopeMap Release"/>
+<img src="https://img.shields.io/badge/Release-v0.10.0-693339?style=for-the-badge&labelColor=34191D" alt="ScopeMap Release"/>
 </a>
 </p>
 
@@ -212,7 +212,7 @@ My recent public engineering work has been heavily focused on ScopeMap.
 
 <p>
 <a href="https://github.com/POORNA-12?tab=overview">
-<img src="https://img.shields.io/badge/View%20GitHub%20Activity-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity"/>
+<img src="https://img.shields.io/badge/View%20GitHub%20Activity-5A2B33?style=for-the-badge&logo=github&logoColor=white&labelColor=281318" alt="GitHub Activity"/>
 </a>
 </p>
 
@@ -273,7 +273,7 @@ Completed a 240-hour long-term internship focused on Full Stack Development.
 <div align="center">
 
 <a href="https://github.com/POORNA-12?tab=overview">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+<img src="https://img.shields.io/badge/View%20All%20Repositories-4A252A?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0E11" alt="View repositories"/>
 </a>
 
 </div>

@@ -1,66 +1,67 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 490" width="100%" height="100%">
   <defs>
-    <!-- Background Gradient: Rich Espresso / Dark Mahogany / Warm Chocolate (#1c1013 -> #34191d -> #4a252a -> #693339) -->
-    <linearGradient id="studio-exact-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#190e11"/>
-      <stop offset="35%" stop-color="#2c161b"/>
-      <stop offset="70%" stop-color="#422127"/>
-      <stop offset="100%" stop-color="#5a2b33"/>
+    <!-- Background Gradient: Pure Studio Espresso & Warm Dark Mahogany (Zero Blue) -->
+    <linearGradient id="studio-bg-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#160c0f"/>
+      <stop offset="30%" stop-color="#281318"/>
+      <stop offset="65%" stop-color="#3d1c23"/>
+      <stop offset="85%" stop-color="#4a222a"/>
+      <stop offset="100%" stop-color="#220e13"/>
     </linearGradient>
 
     <!-- Translucent Wave Gradient Layer -->
-    <linearGradient id="wave-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#12090b" stop-opacity="0.85"/>
-      <stop offset="50%" stop-color="#241116" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#3b1c22" stop-opacity="0.75"/>
+    <linearGradient id="studio-wave-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f0709" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#220f14" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#36171e" stop-opacity="0.75"/>
     </linearGradient>
 
-    <!-- Card Gradients -->
-    <linearGradient id="card-backend" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2c1722" stop-opacity="0.94"/>
-      <stop offset="100%" stop-color="#170c12" stop-opacity="0.94"/>
+    <!-- Card Gradients: Warm Mahogany, Deep Mocha, Warm Amber-Brown -->
+    <linearGradient id="card-backend-warm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c141a" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#180a0e" stop-opacity="0.95"/>
     </linearGradient>
 
-    <linearGradient id="card-dist" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3d1e26" stop-opacity="0.94"/>
-      <stop offset="100%" stop-color="#221015" stop-opacity="0.94"/>
+    <linearGradient id="card-dist-warm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b1b22" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#200d12" stop-opacity="0.95"/>
     </linearGradient>
 
-    <linearGradient id="card-sec" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#4a262e" stop-opacity="0.94"/>
-      <stop offset="100%" stop-color="#291319" stop-opacity="0.94"/>
+    <linearGradient id="card-sec-warm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#331c15" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#1c0e0a" stop-opacity="0.95"/>
     </linearGradient>
 
-    <!-- Connector Line Gradients -->
-    <linearGradient id="connector-left" x1="0%" y1="0%" x2="0%" y2="100%">
+    <!-- Warm Connector Line Gradients: Copper, Rose Gold & Bronze -->
+    <linearGradient id="connector-left-warm" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#fb7185"/>
       <stop offset="100%" stop-color="#f43f5e"/>
     </linearGradient>
 
-    <linearGradient id="connector-mid" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="connector-mid-warm" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#fb7185"/>
-      <stop offset="100%" stop-color="#fda4af"/>
+      <stop offset="100%" stop-color="#f97316"/>
     </linearGradient>
 
-    <linearGradient id="connector-right" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="connector-right-warm" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#fb7185"/>
-      <stop offset="100%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
     </linearGradient>
 
     <!-- Glow Filters -->
-    <filter id="glow-strong" x="-20%" y="-20%" width="140%" height="140%">
+    <filter id="glow-strong-warm" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
 
-    <filter id="glow-subtle" x="-20%" y="-20%" width="140%" height="140%">
+    <filter id="glow-subtle-warm" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
 
-    <!-- Dot Grid Pattern -->
+    <!-- Dot Grid Pattern (Warm Copper/Rose Dots) -->
     <pattern id="dot-grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="12" cy="12" r="1.1" fill="#fb7185" fill-opacity="0.14"/>
+      <circle cx="12" cy="12" r="1.1" fill="#fb7185" fill-opacity="0.15"/>
     </pattern>
   </defs>
 
@@ -68,39 +69,39 @@
     .font-base { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
     .title-text { font-weight: 800; font-size: 15px; letter-spacing: 2px; fill: #ffffff; }
     .card-title { font-weight: 750; font-size: 15px; letter-spacing: 0.5px; fill: #ffffff; }
-    .card-item { font-weight: 500; font-size: 13px; fill: #f1e2e5; }
+    .card-item { font-weight: 500; font-size: 13px; fill: #f3e5e8; }
     .output-text { font-weight: 850; font-size: 15.5px; letter-spacing: 2px; fill: #ffffff; }
   </style>
 
-  <!-- Container Box with Rich Espresso / Mahogany Gradient -->
-  <rect x="1" y="1" width="938" height="488" rx="18" fill="url(#studio-exact-grad)" stroke="#5a2b33" stroke-width="1.6"/>
+  <!-- Container Box with Rich Espresso / Mahogany Background -->
+  <rect x="1" y="1" width="938" height="488" rx="18" fill="url(#studio-bg-grad)" stroke="#5c2630" stroke-width="1.6"/>
   
   <!-- Studio Fluid Wave Background -->
-  <path d="M 1 350 Q 240 420 480 370 T 939 390 L 939 488 L 1 488 Z" fill="url(#wave-grad)" opacity="0.9"/>
+  <path d="M 1 350 Q 240 420 480 370 T 939 390 L 939 488 L 1 488 Z" fill="url(#studio-wave-grad)" opacity="0.9"/>
   <rect x="1" y="1" width="938" height="488" rx="18" fill="url(#dot-grid)"/>
 
   <!-- Top Connectors -->
-  <path d="M 470 74 C 470 102, 185 96, 185 125" fill="none" stroke="url(#connector-left)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
-  <path d="M 470 74 L 470 125" fill="none" stroke="url(#connector-mid)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
-  <path d="M 470 74 C 470 102, 755 96, 755 125" fill="none" stroke="url(#connector-right)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
+  <path d="M 470 74 C 470 102, 185 96, 185 125" fill="none" stroke="url(#connector-left-warm)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
+  <path d="M 470 74 L 470 125" fill="none" stroke="url(#connector-mid-warm)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
+  <path d="M 470 74 C 470 102, 755 96, 755 125" fill="none" stroke="url(#connector-right-warm)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
 
   <!-- Bottom Connectors -->
-  <path d="M 185 315 C 185 365, 470 355, 470 395" fill="none" stroke="url(#connector-left)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
-  <path d="M 470 315 L 470 395" fill="none" stroke="url(#connector-mid)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
-  <path d="M 755 315 C 755 365, 470 355, 470 395" fill="none" stroke="url(#connector-right)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
+  <path d="M 185 315 C 185 365, 470 355, 470 395" fill="none" stroke="url(#connector-left-warm)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
+  <path d="M 470 315 L 470 395" fill="none" stroke="url(#connector-mid-warm)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
+  <path d="M 755 315 C 755 365, 470 355, 470 395" fill="none" stroke="url(#connector-right-warm)" stroke-width="2.2" stroke-linecap="round" opacity="0.95"/>
 
-  <!-- Top Node: Platform Engineering -->
+  <!-- Top Node: Platform Engineering (Warm Mahogany Pill) -->
   <g transform="translate(310, 24)">
-    <rect x="0" y="0" width="320" height="50" rx="25" fill="#2d141a" stroke="#fb7185" stroke-width="2" filter="url(#glow-subtle)"/>
-    <rect x="0" y="0" width="320" height="50" rx="25" fill="#2d141a" stroke="#fb7185" stroke-width="2"/>
+    <rect x="0" y="0" width="320" height="50" rx="25" fill="#291116" stroke="#fb7185" stroke-width="2" filter="url(#glow-subtle-warm)"/>
+    <rect x="0" y="0" width="320" height="50" rx="25" fill="#291116" stroke="#fb7185" stroke-width="2"/>
     <circle cx="30" cy="25" r="11" fill="#fb7185" fill-opacity="0.25"/>
     <text x="30" y="30" class="font-base" font-size="13" text-anchor="middle" fill="#fb7185">⚡</text>
     <text x="175" y="30.5" class="font-base title-text" fill="#fecdd3" text-anchor="middle">PLATFORM ENGINEERING</text>
   </g>
 
-  <!-- CARD 1: Backend Systems -->
+  <!-- CARD 1: Backend Systems (Warm Rose-Mocha #f43f5e) -->
   <g transform="translate(55, 125)">
-    <rect x="0" y="0" width="260" height="190" rx="14" fill="url(#card-backend)" stroke="#f43f5e" stroke-width="1.6" stroke-opacity="0.8"/>
+    <rect x="0" y="0" width="260" height="190" rx="14" fill="url(#card-backend-warm)" stroke="#f43f5e" stroke-width="1.6" stroke-opacity="0.85"/>
     <path d="M 14 0 L 246 0" stroke="#f43f5e" stroke-width="3" stroke-linecap="round"/>
     
     <!-- Title Area -->
@@ -108,7 +109,7 @@
     <text x="30" y="35" class="font-base" font-size="14.5" text-anchor="middle">🏗️</text>
     <text x="54" y="35.5" class="font-base card-title">BACKEND SYSTEMS</text>
 
-    <line x1="18" y1="56" x2="242" y2="56" stroke="#5c2934" stroke-width="1"/>
+    <line x1="18" y1="56" x2="242" y2="56" stroke="#5c252f" stroke-width="1"/>
 
     <!-- Items -->
     <circle cx="28" cy="78" r="3" fill="#f43f5e"/>
@@ -124,9 +125,9 @@
     <text x="40" y="160.5" class="font-base card-item">ASGI Async Execution &amp; WS</text>
   </g>
 
-  <!-- CARD 2: Distributed Systems -->
+  <!-- CARD 2: Distributed Systems (Warm Dark Mahogany #fb7185) -->
   <g transform="translate(340, 125)">
-    <rect x="0" y="0" width="260" height="190" rx="14" fill="url(#card-dist)" stroke="#fb7185" stroke-width="1.6" stroke-opacity="0.85"/>
+    <rect x="0" y="0" width="260" height="190" rx="14" fill="url(#card-dist-warm)" stroke="#fb7185" stroke-width="1.6" stroke-opacity="0.85"/>
     <path d="M 14 0 L 246 0" stroke="#fb7185" stroke-width="3" stroke-linecap="round"/>
     
     <!-- Title Area -->
@@ -134,7 +135,7 @@
     <text x="30" y="35" class="font-base" font-size="14.5" text-anchor="middle">🌐</text>
     <text x="54" y="35.5" class="font-base card-title">DISTRIBUTED SYSTEMS</text>
 
-    <line x1="18" y1="56" x2="242" y2="56" stroke="#682c37" stroke-width="1"/>
+    <line x1="18" y1="56" x2="242" y2="56" stroke="#682935" stroke-width="1"/>
 
     <!-- Items -->
     <circle cx="28" cy="78" r="3" fill="#fb7185"/>
@@ -150,38 +151,38 @@
     <text x="40" y="160.5" class="font-base card-item">Fault Tolerance &amp; Observability</text>
   </g>
 
-  <!-- CARD 3: Security & IAM -->
+  <!-- CARD 3: Security & IAM (Warm Amber / Copper-Bronze #f59e0b) -->
   <g transform="translate(625, 125)">
-    <rect x="0" y="0" width="260" height="190" rx="14" fill="url(#card-sec)" stroke="#fb923c" stroke-width="1.6" stroke-opacity="0.85"/>
-    <path d="M 14 0 L 246 0" stroke="#fb923c" stroke-width="3" stroke-linecap="round"/>
+    <rect x="0" y="0" width="260" height="190" rx="14" fill="url(#card-sec-warm)" stroke="#f59e0b" stroke-width="1.6" stroke-opacity="0.85"/>
+    <path d="M 14 0 L 246 0" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
     
     <!-- Title Area -->
-    <circle cx="30" cy="30" r="14" fill="#fb923c" fill-opacity="0.25"/>
+    <circle cx="30" cy="30" r="14" fill="#f59e0b" fill-opacity="0.25"/>
     <text x="30" y="35" class="font-base" font-size="14.5" text-anchor="middle">🔐</text>
     <text x="54" y="35.5" class="font-base card-title">SECURITY &amp; IAM</text>
 
-    <line x1="18" y1="56" x2="242" y2="56" stroke="#6b372a" stroke-width="1"/>
+    <line x1="18" y1="56" x2="242" y2="56" stroke="#633b18" stroke-width="1"/>
 
     <!-- Items -->
-    <circle cx="28" cy="78" r="3" fill="#fb923c"/>
+    <circle cx="28" cy="78" r="3" fill="#f59e0b"/>
     <text x="40" y="82.5" class="font-base card-item">Authentication &amp; JWT Workflows</text>
 
-    <circle cx="28" cy="104" r="3" fill="#fb923c"/>
+    <circle cx="28" cy="104" r="3" fill="#f59e0b"/>
     <text x="40" y="108.5" class="font-base card-item">RBAC, ABAC &amp; CBAC Policies</text>
 
-    <circle cx="28" cy="130" r="3" fill="#fb923c"/>
+    <circle cx="28" cy="130" r="3" fill="#f59e0b"/>
     <text x="40" y="134.5" class="font-base card-item">Multi-Tenant Isolation &amp; Guards</text>
 
-    <circle cx="28" cy="156" r="3" fill="#fb923c"/>
+    <circle cx="28" cy="156" r="3" fill="#f59e0b"/>
     <text x="40" y="160.5" class="font-base card-item">Attack Surface Mgmt &amp; Auditing</text>
   </g>
 
-  <!-- Bottom Synthesis Node: Reliable & Scalable Platforms -->
+  <!-- Bottom Synthesis Node: Reliable & Scalable Platforms (Deep Mahogany & Warm Rose Glow) -->
   <g transform="translate(265, 395)">
-    <rect x="0" y="0" width="410" height="56" rx="28" fill="#38151e" stroke="#fb7185" stroke-width="2.2" filter="url(#glow-strong)"/>
-    <rect x="0" y="0" width="410" height="56" rx="28" fill="#38151e" stroke="#fb7185" stroke-width="2.2"/>
+    <rect x="0" y="0" width="410" height="56" rx="28" fill="#36141d" stroke="#fb7185" stroke-width="2.2" filter="url(#glow-strong-warm)"/>
+    <rect x="0" y="0" width="410" height="56" rx="28" fill="#36141d" stroke="#fb7185" stroke-width="2.2"/>
     <circle cx="32" cy="28" r="13" fill="#fb7185" fill-opacity="0.3"/>
     <text x="32" y="33.5" class="font-base" font-size="14" text-anchor="middle">🚀</text>
-    <text x="228" y="33.5" class="font-base output-text" fill="#ffe4e6" text-anchor="middle">RELIABLE &amp; SCALABLE PLATFORMS</text>
+    <text x="228" y="33.5" class="font-base output-text" fill="#fff1f2" text-anchor="middle">RELIABLE &amp; SCALABLE PLATFORMS</text>
   </g>
 </svg>
